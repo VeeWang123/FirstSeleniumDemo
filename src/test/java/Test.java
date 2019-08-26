@@ -40,7 +40,9 @@ public class Test {
     @org.testng.annotations.Test(dataProvider = "search")
     public void testURL(String search) throws InterruptedException {
 //        driver.get("http://192.168.2.111:4444/grid/console?config=true&configDebug=true");
+        System.out.println("driver got");
         driver.get("https://www.baidu.com/");
+        System.out.println("url loaded");
         sleep(2000);
         WebElement help = driver.findElement(By.id("kw"));
         help.sendKeys(search);
