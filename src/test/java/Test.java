@@ -57,7 +57,10 @@ public class Test {
         BaiduPage baiduPage = new BaiduPage(driver);
 //        PageFactory.initElements(driver,BaiduPage.class);
         driver.get("https://www.baidu.com/");
-        baiduPage.search("hahaha");
+        baiduPage.search("selenium");
+        String title = driver.getTitle();
+        System.out.println(title);
+        Assert.assertEquals(title,"selenium_百度搜索","not equal！");
 
 
     }
