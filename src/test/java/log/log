@@ -1,0 +1,30 @@
+2019-10-09 11:20:13 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...
+2019-10-09 11:20:19 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: utils.TestNGRetry.retry(TestNGRetry.java:24) ]
+INFO:running retry for  'testListener' on class utils.TestNGRetry Retrying 2 times！！！
+2019-10-09 11:20:21 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...
+2019-10-09 11:20:27 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: utils.TestNGRetry.retry(TestNGRetry.java:24) ]
+INFO:running retry for  'testListener' on class utils.TestNGRetry Retrying 3 times！！！
+2019-10-09 11:20:28 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...
+2019-10-09 11:21:38 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...
+2019-10-09 11:21:43 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: utils.TestNGRetry.retry(TestNGRetry.java:24) ]
+INFO:running retry for  'testListener' on class utils.TestNGRetry Retrying 1 times！！！
+2019-10-09 11:21:46 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...
+2019-10-09 11:21:51 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: utils.TestNGRetry.retry(TestNGRetry.java:24) ]
+INFO:running retry for  'testListener' on class utils.TestNGRetry Retrying 2 times！！！
+2019-10-09 11:21:52 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...
+2019-10-09 11:21:58 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: utils.TestNGRetry.retry(TestNGRetry.java:24) ]
+INFO:running retry for  'testListener' on class utils.TestNGRetry Retrying 3 times！！！
+2019-10-09 11:21:59 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...
+2019-10-09 11:30:06 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...
+2019-10-09 11:30:11 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: utils.TestNGRetry.retry(TestNGRetry.java:24) ]
+INFO:running retry for  'testListener' on class utils.TestNGRetry Retrying 1 times！！！
+2019-10-09 11:30:13 上午 [Thread: main][ Class:utils.TestNGRetry >> Method: TestFrameworkElementUtils.testListener(TestFrameworkElementUtils.java:75) ]
+INFO:testListener begins ...

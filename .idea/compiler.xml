@@ -26,7 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Selenium_Demo1" target="1.7" />
+      <module name="Selenium_Demo1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,10 +2,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.firefox.FirefoxOptions;
-import org.openqa.selenium.safari.SafariDriver;
-import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
@@ -64,8 +60,8 @@ public class Test {
         System.out.println(title);
         Assert.assertEquals(title,"selenium_百度搜索","not equal！");
 
-
     }
+
 
     @AfterMethod
     public void closeBrowser(){

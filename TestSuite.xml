@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
 <suite name="Default Suite" >
+
+  <listeners>
+    <listener class-name="utils.RetryListener"/>
+  </listeners>
+
   <!--thread-count="2" parallel="methods"-->
   <test name="Selenium_Demo1">
     <classes>
-      <class name="Test">
-        <!--<methods>-->
-          <!--<include name="testGrid"/>-->
-        <!--</methods>-->
-      </class> <!-- TestGrid -->
+      <class name="TestFrameworkElementUtils">
+        <methods>
+          <include name="testListener"/>
+        </methods>
+      </class>
+      <!-- TestGrid -->
       <!--<class name="TestGrid">-->
       <!--</class>-->
     </classes>
